@@ -3,7 +3,7 @@
 
 This repository serves as a showcase of my projects and contributions. Below you'll find information about each project and instructions on using them.
 
-- I'm a data enthusiast who loves working with data 📈
+- I am a data enthusiast dedicated to uncovering valuable insights from collected data and implementing actionable strategies for continuous improvement 📈
 - Passionate about sharing my journey in data analytics 🌐
 - Graduated from Master of Business Analytics at Macquarie University, Australia 🎓
 - Currently learning more about data analytics, business analytics, and [storytelling with data](https://public.tableau.com/app/profile/thuy.anh.nguyen6460/vizzes) 📝
